@@ -1,0 +1,6 @@
+{
+  "name": "Commons",
+  "description": "A mobile-first neighborhood community hub for local news, events, local eats, peer mentoring, and essential resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
